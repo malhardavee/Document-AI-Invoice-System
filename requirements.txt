@@ -1,0 +1,34 @@
+# Core ML / NLP
+torch
+transformers
+datasets
+spacy
+tqdm
+nltk
+pandas
+numpy
+matplotlib
+
+# OCR and Image Processing
+opencv-python
+paddleocr
+easyocr
+pytesseract
+Pillow
+
+# Backend API
+fastapi
+uvicorn
+python-multipart
+pyyaml
+
+# PDF Support
+pdf2image
+poppler-utils  # optional for PDF on Linux; macOS users install via brew
+
+# Frontend (UI)
+streamlit
+requests
+
+# Optional utilities
+typing-extensions

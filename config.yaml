@@ -1,0 +1,11 @@
+DATA_PATHS:
+  RAW: "./data/raw"
+  OCR: "./data/processed_data/ocr_text"
+  CLEANED: "./data/processed_data/text_cleaned_spacy"
+  STRUCTURED: "./data/processed_data/structured_json"
+  REASONING: "./data/processed_data/reasoning_output"
+  FINAL: "./data/processed_data/final_json"
+
+MODEL_PATHS:
+  CLASSIFIER: "./data/models/doc_classifier"
+  ENTITY: "./data/models/entity_extractor"
