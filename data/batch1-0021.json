@@ -1,0 +1,16 @@
+{
+    "file_name": "batch1-0021.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0021.jpg",
+    "extracted_text": "Invoice no: 96430839\n\nDate of issue:\n\nSeller:\n\nBennett, Chavez and Vazquez\nUnit 8361 Box 7078\nDPO AE 69202\n\nTax Id: 971-80-5191\nIBAN: GB9ORYME18980824175499\n\nITEMS\nNo. Description Qty\n1. Dell Optiplex 990 MT Computer 4,00\n\nPC Quad Core i7 3.4GHz 16GB\n2TB HD Windows 10 Pro\n\n2. Open Box: Dell XPS 8930 1,00\nDesktop Computer Intel Core i7\n8GB RAM 1TB HDD Black - 8\n\noh Dell 9020 i5-4570 | 16GB | 2TB | 5,00\nSSD Windows 10 Pro Desktop\nComputer PC WiFi DVD\n\n4. Dell Optiplex 7040 SFF PC 4,00\nComputer Intel Core i5-6500\n3.2GHz 4GB RAM 500GB HDD\n\nSe HP Desktop Computer PC [] 4,00\n\nCore i5 16GB 2TB HD 256GB\nSSD 22\" LCD J Windows 10\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n01/13/2019\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\n\nAlexander-Petersen\n\n647 Joyce Ville\n\nWaltonfort, IA 57670\n\nTax Id: 934-91-7455\n\nNet price\n\n269,95\n\n718,11\n\n349,95\n\n99,99\n\n139,95\n\nNet worth\n4 507,42\n\n$ 4507,42\n\nNet worth VAT [%]\n1 079,80 10%\n718,11 10%\n1 749,75 10%\n399,96 10%\n559,80 10%\n\nVAT\n\n450,74\n\n$ 450,74\n\nGross\nworth\n\n1 187,78\n\n789,92\n\n1 924,73\n\n439,96\n\n615,78\n\nGross worth\n\n4 958,16\n\n$ 4 958,16",
+    "cleaned_text": "invoice date issue seller bennett chavez vazquez unit box dpo ae tax d iban gb9oryme18980824175499 items description qty dell optiplex mt computer pc quad core i7 3.4ghz gb tb hd windows pro open box dell xps desktop computer intel core i7 gb ram tb hdd black oh dell i5 gb tb ssd windows pro desktop computer pc wifi dvd dell optiplex sff pc computer intel core i5 3.2ghz gb ram gb hdd se hp desktop computer pc core i5 gb tb hd gb ssd lcd j windows summary vat total 01/13/2019 um eacn eacn eacn eacn eacn client alexander petersen joyce ville waltonfort ia tax d net price net worth net worth vat vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "18980824175499",
+        "invoice_date": "01/13/2019",
+        "total_amount": "9",
+        "tax_amount": "9",
+        "organizations": [
+            "optiplex sff",
+            "xps desktop computer"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "file_name": "batch1-0047.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0047.jpg",
+    "extracted_text": "Invoice no: 24342647\n\nDate of issue:\n\nSeller:\n\nDavis, Evans and Cooper\n475 Daniel Port\nMoralesborough, OK 44662\n\nTax Id: 933-70-8828\nIBAN: GBO5CPFN10349037207241\n\nITEMS\n\nNo. Description\n\nAs 15\"x15\" White Marble Coffee\nTable Top With 15\" Tall Stand\nSemi Precious Art Deco\n\n2. 12\" Marble Lapis Inlay Chess\nTable Top With 2\" Pieces & 15\"\nWooden Stand W537\n\n3: 18\"x18\" White Hand Curved Top\n\nCoffee Table Inlay Decorative\nGift For Her Wedding\n\nSUMMARY\n\nTotal\n\nQty\n\n4,00\n\n3,00\n\n1,00\n\nVAT [%]\n\n10%\n\n05/07/2020\n\nUM\n\neach\n\neach\n\neach\n\nClient:\n\nStephens-Goodman\n5197 Rebekah Stravenue Suite 498\nNew Nicholasland, VA 18645\n\nTax Id: 910-72-5904\n\nNet price\n\n575,99\n\n444,60\n\n475,22\n\nNet worth\n4 112,98\n\n$4112,98\n\nNet worth VAT [%] Gross\nworth\n\n2 303,96 10% 2 534,36\n\n1 333,80 10% 1 467,18\n475,22 10% 522,74\nVAT Gross worth\n\n411,30 4524,28\n\n$ 411,30 $ 4 524,28",
+    "cleaned_text": "invoice date issue seller davis evans cooper daniel port moralesborough ok tax d iban gbo5cpfn10349037207241 items description 15\"x15 white marble coffee table tall stand semi precious art deco marble lapis inlay chess table pieces wooden stand w537 18\"x18 white hand curved coffee table inlay decorative gift wedding summary total qty vat 05/07/2020 um client stephens goodman rebekah stravenue suite new nicholasland va tax d net price net worth net worth vat gross worth vat gross worth",
+    "extracted_fields": {
+        "invoice_number": "10349037207241",
+        "invoice_date": "05/07/2020",
+        "total_amount": "5",
+        "tax_amount": "5",
+        "organizations": [
+            "deco",
+            "ok tax d iban"
+        ]
+    }
+}

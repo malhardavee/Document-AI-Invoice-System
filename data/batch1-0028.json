@@ -1,0 +1,17 @@
+{
+    "file_name": "batch1-0028.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0028.jpg",
+    "extracted_text": "Invoice no: 32830026\n\nDate of issue:\n\nSeller:\n\nGeorge, Casey and Harris\n0943 Justin Branch Apt. 233\nIngramberg, DE 59102\n\nTax Id: 907-77-8965\nIBAN: GB810UZN44807763808287\n\nITEMS\nNo. Description Qty\ntks SONY Playstation2 Console 5,00\n\nSCPH-50000 \" Peal Color \" /\nTESTED 11176\n\n2. Nintendo Switch Lite Gray 1,00\nCONSOLE ONLY - No\nAccessories or Charger [B5-2]\n\nSh Nintendo Wii Console RVL-001 3,00\nComplete Hookups W/\nMario&Sonic; Tested / Working\n\n4. B351 Nintendo new 3DS console 4,00\nWhite Japan w/stylus pen\n\n5: Sega Saturn Console Gray 1,00\nHST-3200 HST-3210 Japanese\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n12/20/2014\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\n\nStewart, Fields and Scott\n07095 Robert Cape\nMarquezburgh, DC 81706\n\nTax Id: 995-83-6792\n\nNet price Net worth VAT [%]\n45,00 225,00 10%\n135,00 135,00 10%\n78,88 236,64 10%\n79,99 319,96 10%\n119,98 119,98 10%\n\nNet worth VAT\n\n1 036,58 103,66\n\n$ 1 036,58 $ 103,66\n\nGross\nworth\n\n247,50\n\n148,50\n\n260,30\n\n351,96\n\n131,98\n\nGross worth\n\n1 140,24\n\n$1140,24",
+    "cleaned_text": "invoice date issue seller george casey harris justin branch apt ingramberg de tax d iban gb810uzn44807763808287 items description qty tks sony playstation2 console scph-50000 peal color test nintendo switch lite gray console accessories charger b5 sh nintendo wii console rvl-001 complete hookups w/ mario&sonic tested working b351 nintendo new 3ds console white japan w stylus pen sega saturn console gray hst-3200 hst-3210 japanese summary vat total 12/20/2014 um eacn eacn eacn eacn eacn client stewart fields scott robert cape marquezburgh dc tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "810",
+        "invoice_date": "12/20/2014",
+        "total_amount": "810",
+        "tax_amount": "810",
+        "organizations": [
+            "sony",
+            "nintendo wii console",
+            "ingramberg de tax d iban"
+        ]
+    }
+}

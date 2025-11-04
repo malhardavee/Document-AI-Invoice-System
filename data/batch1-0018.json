@@ -1,0 +1,17 @@
+{
+    "file_name": "batch1-0018.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0018.jpg",
+    "extracted_text": "Invoice no: 36187296\n\nDate of issue:\n\nSeller:\n\nLopez, Murray and Johnston\n62820 White Glen\nEmilyshire, IN 44602\n\nTax Id: 951-73-0229\nIBAN: GB480UAZ93098629612648\n\nITEMS\nNo. Description Qty\ntks Nike Kids KD Trey 5 / Nike Black 5,00\nSize 4.5aY\n2. Lego Star Wars Minifigures 1,00\n\nStormtrooper Darth Vader Yoda\nObi Van Mandalorian New\n\nSe Nike Air Jordan 1 Mid Obsidian 5,00\n640735-174 Toddler Kids\nChildren Size 8C Blue\n\n4. Oomphies Boys Ankle Boots 4,00\nShoes Gray Green Kids Size 2\nEUC\n5: Jordan 10 Retro Fusion Red Size 3,00\n6Y\n6. Jordan Hydro 2 (TD)-Child Size 1,00\n10c\nSUMMARY\nVAT [%]\n10%\nTotal\n\n01/05/2017\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\nWhite Ltd\n\n58435 Kline Wall\n\nPort Stacey, NM\n\n41817\n\nTax Id: 966-84-8472\n\nNet price\n\n22,00\n\n2,98\n\n24,99\n\n11,99\n\n60,00\n\n5,75\n\nNet worth\n471,64\n\n$ 471,64\n\nNet worth\n\n110,00\n\n2,98\n\n124,95\n\n47,96\n\n180,00\n\n5,75\n\nVAT [%]\n\n10%\n\n10%\n\n10%\n\n10%\n\n10%\n\n10%\n\nVAT\n\n47,16\n\n$ 47,16\n\nGross\nworth\n\n121,00\n\n3,28\n\n137,44\n\n52,76\n\n198,00\n\n6,33\n\nGross worth\n\n518,80\n\n$ 518,80",
+    "cleaned_text": "invoice date issue seller lopez murray johnston white glen emilyshire tax d iban gb480uaz93098629612648 items description qty tks nike kids kd trey nike black size 4.5ay lego star wars minifigures stormtrooper darth vader yoda obi van mandalorian new se nike air jordan mid obsidian toddler kids child size 8c blue oomphies boys ankle boots shoes gray green kids size euc jordan retro fusion red size 6y jordan hydro td)-child size 10c summary vat total 01/05/2017 um eacn eacn eacn eacn eacn eacn client white ltd kline wall port stacey nm tax d net price net worth net worth vat vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "480",
+        "invoice_date": "01/05/2017",
+        "total_amount": "480",
+        "tax_amount": "480",
+        "organizations": [
+            "jordan retro fusion red",
+            "white ltd kline",
+            "nike air jordan"
+        ]
+    }
+}

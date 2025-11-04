@@ -1,0 +1,12 @@
+{
+    "file_name": "batch1-0011.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0011.jpg",
+    "extracted_text": "Invoice no: 68688408\n\nDate of issue:\n\nSeller:\n\nTorres and Sons\n4052 Brown Roads\nHaysstad, NJ 06418\n\nTax Id: 953-84-2239\nIBAN: GB84XSNO58142814072766\n\nITEMS\n\nNo. Description Qty\n\ntks Nike 747998-401 Team Hustle 3,00\nD7 Kids Blue Mid Top Basketball\nShoes Size 4Y US\n\n2. Jordan Nike Kid Air 1 Retro High 1,00\nBlack Gray Elephant Size 7Y\n838850-013\n\nSUMMARY\nVAT [%]\n\n10%\n\nTotal\n\nUM\n\neach\n\neach\n\n03/20/2016\n\nClient:\n\nDennis, Levy and Bowen\n523 Leslie Manors\nLake Colleenville, CT 12053\n\nTax Id: 904-82-9186\n\nNet price Net worth VAT [%]\n10,99 32,97 10%\n50,00 50,00 10%\n\nNet worth VAT\n82,97 8,30\n$ 82,97 $ 8,30\n\nGross\nworth\n\n36,27\n\n55,00\n\nGross worth\n91,27\n\n$ 91,27",
+    "cleaned_text": "invoice date issue seller torres son brown roads haysstad nj tax d iban gb84xsno58142814072766 items description qty tks nike team hustle d7 kid blue mid basketball shoes size 4y jordan nike kid air retro high black gray elephant size 7y summary vat total um 03/20/2016 client dennis levy bowen leslie manors lake colleenville ct tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "58142814072766",
+        "invoice_date": "03/20/2016",
+        "total_amount": "84",
+        "tax_amount": "84"
+    }
+}

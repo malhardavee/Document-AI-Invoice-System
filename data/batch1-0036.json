@@ -1,0 +1,16 @@
+{
+    "file_name": "batch1-0036.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0036.jpg",
+    "extracted_text": "Invoice no: 94786467\n\nDate of issue:\n\nSeller:\n\nCampbell-Thomas\n271 Christopher Causeway Suite 074\nAndersonview, TN 18773\n\nTax Id: 936-70-6673\nIBAN: GB18QZIH77960348255932\n\nITEMS\nNo. Description Qty\ntks 36 Inches Marble Office Table 1,00\n\nTop with Multi Gemstones Work\nDinning Table Top\n\n2. 25 Inches Black Marble Center 2,00\nTable Top with Multi Stones\nCoffee Table for Home\noh SOFA SET 4,00\n4. 15 Inches Marble Bed Side Table 4,00\nTop Stone Coffee Table with\nRoyal Inlay Work\nay 26\"x26\" Black Marble Round 2,00\n\nTop Table Grapes Art Inlay\nFloral Christmas Gift Deco\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n11/19/2013\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\n\nGordon PLC\n77704 Casey Junction Suite 173\nSouth Jacquelinefort, OK 29297\n\nTax Id: 919-88-4424\n\nNet price Net worth VAT [%]\n\n1 683,75 1 683,75\n731,25 1 462,50\n250,00 1 000,00\n246,50 986,00\n\n1 288,00 2 576,00\nNet worth VAT\n\n7 708,25 770,83\n\n$ 7 708,25 $ 770,83\n\n10%\n\n10%\n\n10%\n\n10%\n\n10%\n\nGross\nworth\n\n1 852,13\n\n1 608,75\n\n1 100,00\n\n1 084,60\n\n2 833,60\n\nGross worth\n\n8 479,08\n\n$ 8 479,08",
+    "cleaned_text": "invoice date issue seller campbell thomas christopher causeway suite andersonview tn tax d iban gb18qzih77960348255932 items description qty tks inch marble office table multi gemstones work dinning table inch black marble center table multi stones coffee table home oh sofa set inch marble bed table stone coffee table royal inlay work ay 26\"x26 black marble round table grape art inlay floral christmas gift deco summary vat total 11/19/2013 um eacn eacn eacn eacn eacn client gordon plc casey junction suite south jacquelinefort ok tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "77960348255932",
+        "invoice_date": "11/19/2013",
+        "total_amount": "18",
+        "tax_amount": "18",
+        "organizations": [
+            "deco",
+            "gordon plc"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "file_name": "batch1-0022.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0022.jpg",
+    "extracted_text": "Invoice no: 37877758\n\nDate of issue:\n\nSeller:\n\nHolmes-Whitney\nPSC 4815, Box 7683\nAPO AE 56344\n\nTax Id: 945-75-6162\nIBAN: GB81XDRW19367191324873\n\nITEMS\n\nNo. Description\n\nQty\n\nAs 12\"x18\" White Marble Coffee\nTop Table Lapis Inlay Pietradura\nFloral Art Decor\n\n4,00\n\n2. 24\"x24\" Top Marble White Table\nCarnelian Marquetry Interior\nThanksgiving Gift\n\n5,00\n\n3: 24\"x24\" Marble Black Top\nCoffee Table Inlaid Floral Art\nChristmas Gift Home Deco\n\n3,00\n\n4. 48 Inches Marble Coffee Table\nTop Inlay with Yellow Stone Art\nDinette Table Top\n\n1,00\n\nah 7'x4' Blue Random Marble\nDining Hallway Table Top Lapis\nLazuli Inlay Decor E947A\n\n3,00\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n07/02/2014\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\n\nJordan, Jones and Rodriguez\n372 John Tunnel\nPatelport, SC 86533\n\nTax Id: 953-92-4049\n\nNet price Net worth VAT [%]\n396,55 1 586,20 10%\n2 000,00 10 000,00 10%\n1 150,00 3 450,00 10%\n3 400,00 3 400,00 10%\n8 194,09 24 582,27 10%\nNet worth VAT\n43 018,47 4 301,85\n$ 43 018,47 $ 4 301,85\n\nGross\nworth\n\n1 744,82\n\n11 000,00\n\n3 795,00\n\n3 740,00\n\n27 040,50\n\nGross worth\n\n47 320,32\n\n$ 47 320,32",
+    "cleaned_text": "invoice date issue seller holmes whitney psc box apo ae tax d iban gb81xdrw19367191324873 items description qty 12\"x18 white marble coffee table lapis inlay pietradura floral art decor 24\"x24 marble white table carnelian marquetry interior thanksgiving gift 24\"x24 marble black coffee table inlaid floral art christmas gift home deco inch marble coffee table inlay yellow stone art dinette table ah 7'x4 blue random marble dining hallway table lapis lazuli inlay decor e947a summary vat total 07/02/2014 um eacn eacn eacn eacn eacn client jordan jones rodriguez john tunnel patelport sc tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "19367191324873",
+        "invoice_date": "07/02/2014",
+        "total_amount": "81",
+        "tax_amount": "81",
+        "organizations": [
+            "7'x4 blue random",
+            "e947a",
+            "gb81xdrw19367191324873"
+        ]
+    }
+}

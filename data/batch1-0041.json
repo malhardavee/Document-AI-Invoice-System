@@ -1,0 +1,17 @@
+{
+    "file_name": "batch1-0041.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0041.jpg",
+    "extracted_text": "Invoice no: 69875170\n\nDate of issue:\n\nSeller:\n\nDavis, Thomas and Larson\n6943 Long Street Suite 644\nEast Jennifer, WV 57076\n\nTax Id: 984-82-1277\nIBAN: GB63MNKB15123766783579\n\nITEMS\nNo. Description Qty\n1. Antique Vintage style hand 5,00\ncarved table *Unique*\n2. Floral two seater fabric sofa 2,00\n3. 6'x3' White Marble Living Room 3,00\n\nDining Table Top Marquetry\nInlay Furniture H4743A\n\n4. 6'x3' Black Marble Top Dining 4,00\nTable Scagliola Inlay Antique\nArts Kitchen Decor\n\n5: 7'x4' Buy Marble Dining Table 5,00\nWith Black Top Marquetry Inlay\nHallway Decor E944\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n07/18/2014\n\nClient:\n\nRomero Inc\n3498 Margaret Shores\nNoahtown, WA 89768\n\nTax Id: 988-79-9604\n\n$ 176 837,91\n\nUM Net price Net worth VAT [%]\neach 13 000,00 65 000,00 10%\neach 199,00 398,00 10%\neach 5 590,21 16 770,63 10%\neac 5 265,97 21 063,88 10%\neach 14 721,08 73 605,40 10%\n\nNet worth VAT\n\n176 837,91 17 683,79\n\n$ 17 683,79\n\nGross\n\nworth\n\n71 500,00\n\n437,80\n\n18 447,69\n\n23 170,27\n\n80 965,94\n\nGross worth\n194 521,70\n\n$ 194 521,70",
+    "cleaned_text": "invoice date issue seller davis thomas larson long street suite east jennifer wv tax d iban gb63mnkb15123766783579 items description qty antique vintage style hand carve table unique floral seater fabric sofa 6'x3 white marble living room dining table marquetry inlay furniture h4743a 6'x3 black marble dining table scagliola inlay antique arts kitchen decor 7'x4 buy marble dining table black marquetry inlay hallway decor e944 summary vat total 07/18/2014 client romero inc margaret shores noahtown wa tax d um net price net worth vat eac net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "15123766783579",
+        "invoice_date": "07/18/2014",
+        "total_amount": "63",
+        "tax_amount": "63",
+        "organizations": [
+            "07/18/2014",
+            "scagliola inlay antique arts",
+            "romero inc margaret"
+        ]
+    }
+}

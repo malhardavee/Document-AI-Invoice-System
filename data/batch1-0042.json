@@ -1,0 +1,16 @@
+{
+    "file_name": "batch1-0042.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0042.jpg",
+    "extracted_text": "Invoice no: 86736203\n\nDate of issue:\n\nSeller:\n\nPotter-Gordon\n5907 Donna Club\nRobinsonside, DC 18710\n\nTax Id: 968-98-6433\nIBAN: GBO4NPPR85049860720734\n\nITEMS\nNo. Description Qty\ntks Cartoon Rabbit Printed Round 2,00\n\nCarpet Area Rug Children Play\nTent Floor Mat Rug\n\n2. Muted Vegetable Dye Khootan 4,00\nOriental Area Rug Hand-knotted\nFloral 8'x11' Carpet\n\n3: Abstract Living Room Carpet 5,00\nHome Decor Nordic Style\nBedside Area Rug Floor Mats\n\n4. Yilong 8x10ft Hand knotted 1,00\nWool Carpets Home Decor\nModern Villa Area Rug P39\n\nay Romantic Rose Flowers Area 1,00\nRugs Kitchen Living Room Floor\nMat Non-slip Carpets\n\n6. World Map Round Carpets Room 5,00\nPrinted Area Rug Blue Floor Mat\nBedroom Play Mat\n\nde Xmas Christmas Rug Carpet 4,00\n\nCartoon Bedroom Kids Play Mat\nSoft Flannel Area Rugs @\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n05/20/2013\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\nSalinas Ltd\n\n3043 Peters Lights Suite 433\nGreerton, NV 21983\n\nTax Id: 987-91-1452\n\nNet price\n\n177,08\n\n2 015,64\n\n24,01\n\n5 040,00\n\nALS} S17)\n\n83,78\n\n37,31\n\nNet worth\n14 158,28\n\n$14 158,28\n\nNet worth VAT [%]\n354,16 10%\n8 062,56 10%\n120,05 10%\n5 040,00 10%\n13,37 10%\n418,90 10%\n149,24 10%\n\nVAT\n\n1 415,83\n\n$1 415,83\n\nGross\nworth\n\n389,58\n\n8 868,82\n\n132,06\n\n5 544,00\n\n14,71\n\n460,79\n\n164,16\n\nGross worth\n15 574,11\n\n$ 15 574,11",
+    "cleaned_text": "invoice date issue seller potter gordon donna club robinsonside dc tax d iban gbo4nppr85049860720734 items description qty tks cartoon rabbit printed round carpet area rug children play tent floor mat rug mute vegetable dye khootan oriental area rug hand knot floral 8'x11 carpet abstract living room carpet home decor nordic style bedside area rug floor mats yilong 8x10 ft hand knot wool carpets home decor modern villa area rug p39 ay romantic rose flowers area rugs kitchen living room floor mat non slip carpets world map round carpets room printed area rug blue floor mat bedroom play mat de xmas christmas rug carpet cartoon bedroom kid play mat soft flannel area rugs summary vat total 05/20/2013 um eacn eacn eacn eacn eacn eacn eacn client salinas ltd peters lights suite greerton nv tax d net price als s17 net worth net worth vat vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "85049860720734",
+        "invoice_date": "05/20/2013",
+        "total_amount": "4",
+        "tax_amount": "4",
+        "organizations": [
+            "khootan oriental area",
+            "carpet cartoon"
+        ]
+    }
+}

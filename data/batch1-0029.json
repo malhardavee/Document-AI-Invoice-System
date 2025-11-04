@@ -1,0 +1,16 @@
+{
+    "file_name": "batch1-0029.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0029.jpg",
+    "extracted_text": "Invoice no: 54661411\n\nDate of issue:\n\nSeller:\n\nFitzgerald Group\n65165 Mark Vista Suite 750\nKaylaberg, IA 50008\n\nTax Id: 928-97-0774\n\nIBAN: GB34CHOA94863267286764\n\nITEMS\n\nNo. Description\n\n1. Bohemia Style Round Morocco\nArea Rug Tassel Carpet Mat\nFloor Blanket Room Decor\n\n2. Color Skull Series Small Large\nLong Floor Carpet Area Rugs\nVarious Size Soft Rug\n\n3: 3D Swirl Print Optical Illusion\nArea Rug Carpet Floor Pad\nNon-slip Doormat Mats\n\n4. Rug Area Hand Knotted Wool\nOriental Carpet Vintage\nGeometric Traditional Handmad\n\nSh. YILONG 1.2x1.7' 300L Tree And\nBirds Handmade Silk Rug\nCarpet Tapestry LH691A\n\n6. Indian Green Red Color 2.6'x4'\nCarpet Hand Knotted Living\nRoom Traditional Chobi\n\nde Yilong 3'x5' Blue HandKnotted\nSilk Area Rug Antistatic Home\nDecor Carpet 975B\n\nSUMMARY\n\nTotal\n\nQty\n\n3,00\n\n3,00\n\n1,00\n\n3,00\n\n3,00\n\n3,00\n\n5,00\n\nVAT [%]\n\n10%\n\n07/29/2020\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\n\nPowell-Floyd\n\n1956 Adams Island Apt. 000\n\nWheelerside, KY 77866\n\nTax Id: 913-98-4271\n\nNet price\n\n46,89\n\n36,30\n\n11,96\n\n410,00\n\n188,00\n\n215,00\n\n900,00\n\nNet worth\n7 200,53\n\n$ 7 200,53\n\nNet worth VAT [%]\n140,67 10%\n108,90 10%\n\n11,96 10%\n1 230,00 10%\n564,00 10%\n645,00 10%\n4 500,00 10%\nVAT\n720,05\n$ 720,05\n\nGross\nworth\n\n154,74\n\n119,79\n\n13,16\n\n1 353,00\n\n620,40\n\n709,50\n\n4 950,00\n\nGross worth\n\n7 920,58\n\n$ 7 920,58",
+    "cleaned_text": "invoice date issue seller fitzgerald group mark vista suite kaylaberg ia tax d iban gb34choa94863267286764 items description bohemia style round morocco area rug tassel carpet mat floor blanket room decor color skull series small large long floor carpet area rugs size soft rug 3d swirl print optical illusion area rug carpet floor pad non slip doormat mats rug area hand knotted wool oriental carpet vintage geometric traditional handmad sh yilong 1.2x1.7 300l tree birds handmade silk rug carpet tapestry lh691a indian green red color 2.6'x4 carpet hand knotted living room traditional chobi de yilong 3'x5 blue handknotted silk area rug antistatic home decor carpet 975b summary total qty vat 07/29/2020 um eacn eacn eacn eacn eacn eacn eacn client powell floyd adams island apt wheelerside ky tax d net price net worth net worth vat vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "94863267286764",
+        "invoice_date": "07/29/2020",
+        "total_amount": "34",
+        "tax_amount": "34",
+        "organizations": [
+            "gb34choa94863267286764",
+            "carpet floor pad"
+        ]
+    }
+}

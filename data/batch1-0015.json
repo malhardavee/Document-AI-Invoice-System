@@ -1,0 +1,16 @@
+{
+    "file_name": "batch1-0015.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0015.jpg",
+    "extracted_text": "Invoice no: 46506594\n\nDate of issue:\n\nSeller:\n\nPorter-Perkins\n88652 James Loaf\nEast Alyssamouth, KS 81684\n\nTax Id: 929-76-1260\n\nIBAN: GB49GJRS28729607733931\n\nITEMS\n\nNo. Description\n\nAs Nintendo 3DS Handheld Console\nPurple\n\n2. PocketGo Bittboy v2 White\nRetro Video Game Portable\nConsole - 3.5 IPS display\n\n3: Sony PlayStation 3 Slim 120GB\nBlack Console\n\n4. Microsoft Xbox 360 - White -\nConsole, Power Supply, AV\nCables *Tested, Working*\n\nSe SONY Playstation2 Console\nSCPH-39000 \" Aqua Color \"/\nTESTED 11181\n\n6. Nintendo 64 Console \"Perfect\" +\nLot Games \"6 Games\"\n\nSUMMARY\n\nTotal\n\nQty\n\n5,00\n\n4,00\n\n4,00\n\n1,00\n\n1,00\n\n1,00\n\nVAT [%]\n\n10%\n\n03/12/2012\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\nCastaneda LLC\n\n19558 Fry Causeway\nEast Chelseytown, MD 95490\n\nTax Id: 940-86-9734\n\nNet price\n\n98,99\n\n39,00\n\n99,99\n\n39,95\n\n45,00\n\n200,00\n\nNet worth\n1 335,86\n\n$ 1335,86\n\nNet worth VAT [%] Gross\nworth\n\n494,95 10% 544,45\n156,00 10% 171,60\n399,96 10% 439,96\n39,95 10% 43,95\n45,00 10% 49,50\n200,00 10% 220,00\nVAT Gross worth\n133,59 1 469,45\n\n$ 133,59 $1 469,45",
+    "cleaned_text": "invoice date issue seller porter perkins james loaf east alyssamouth ks tax d iban gb49gjrs28729607733931 items description nintendo 3ds handheld console purple pocketgo bittboy v2 white retro video game portable console ips display sony playstation slim gb black console microsoft xbox white console power supply av cables test working se sony playstation2 console scph-39000 aqua color test nintendo console perfect lot games games summary total qty vat 03/12/2012 um eacn eacn eacn eacn eacn eacn client castaneda llc fry causeway east chelseytown md tax d net price net worth net worth vat gross worth vat gross worth",
+    "extracted_fields": {
+        "invoice_number": "28729607733931",
+        "invoice_date": "03/12/2012",
+        "total_amount": "49",
+        "tax_amount": "49",
+        "organizations": [
+            "sony",
+            "gb49gjrs28729607733931"
+        ]
+    }
+}

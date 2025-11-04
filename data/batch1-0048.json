@@ -1,0 +1,17 @@
+{
+    "file_name": "batch1-0048.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0048.jpg",
+    "extracted_text": "Invoice no: 96947403\n\nDate of issue:\n\nSeller:\n\nFrazier-Rose\n124 Martin Forks\nEast Chelsealand, HI 91917\n\nTax Id: 944-92-0144\n\nIBAN: GB67TUVG95262505800602\n\nITEMS\n\nNo.\n\nDescription\n\nLolita Happy Retirement Wine\nGlass 15 Ounce GLS11-5534H\n\nWine Glass European Style Wine\nGlass Rack for Home Kitchen\nBar Restaurant\n\nLibbey Classic White Wine\nGlasses, Set of 4 14 ounce Glass\n\nCuisinart Stainless Steel Electric\nWine Opener - CWO-25 - Brand\nNew in the Box\n\nDouble Lever Wine Corker Used\nIn Good Shape\n\nElectric Automatic Wine Bottle\nOpener w/Foil Cutter\nRechargeable Corkscre\n\nVTG 1970s MCM Brown Steel\nTube Wall or Desk Mounted\n12-Wine Rack Bottle Holder\n\nSUMMARY\n\nTotal\n\nQty\n\n2,00\n\n4,00\n\n2,00\n\n5,00\n\n4,00\n\n1,00\n\n5,00\n\nVAT [%]\n\n10%\n\n10/09/2011\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\nCruz LLC\n\n22989 Daniel Run\nSouth Jennifer, LA 86324\n\nTax Id: 985-88-9141\n\nNet price\n\n8,00\n\n31,79\n\n18,74\n\n19,90\n\n6,30\n\n6,28\n\n34,00\n\nNet worth\n481,62\n\n$ 481,62\n\nNet worth VAT [%] Gross\nworth\n\n16,00 10% 17,60\n127,16 10% 139,88\n37,48 10% 41,23\n99,50 10% 109,45\n25,20 10% 27,72\n6,28 10% 6,91\n170,00 10% 187,00\nVAT Gross worth\n\n48,16 529,78\n\n$ 48,16 $ 529,78",
+    "cleaned_text": "invoice date issue seller frazier rose martin forks east chelsealand hi tax d iban gb67tuvg95262505800602 items description lolita happy retirement wine glass ounce gls11 5534h wine glass european style wine glass rack home kitchen bar restaurant libbey classic white wine glass set ounce glass cuisinart stainless steel electric wine opener cwo-25 brand new box double lever wine corker good shape electric automatic wine bottle opener w foil cutter rechargeable corkscre vtg 1970 mcm brown steel tube wall desk mounted wine rack bottle holder summary total qty vat 10/09/2011 um eacn eacn eacn eacn eacn eacn eacn client cruz llc daniel run south jennifer la tax d net price net worth net worth vat gross worth vat gross worth",
+    "extracted_fields": {
+        "invoice_number": "95262505800602",
+        "invoice_date": "10/09/2011",
+        "total_amount": "67",
+        "tax_amount": "67",
+        "organizations": [
+            "cwo-25",
+            "mcm brown steel",
+            "martin forks east"
+        ]
+    }
+}

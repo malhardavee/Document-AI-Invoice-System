@@ -1,0 +1,15 @@
+{
+    "file_name": "batch1-0037.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0037.jpg",
+    "extracted_text": "Invoice no: 61669642\n\nDate of issue:\n\nSeller:\n\nCarter Inc\n7936 Smith Streets\nMariahchester, PA 08114\n\nTax Id: 940-76-9247\nIBAN: GB89DNYK55635059269556\n\nITEMS\nNo. Description Qty\ntks Jesus (Hardback or Cased Book) 4,00\n2. Haida: Their Art and Culture 2,00\nSUMMARY\nVAT [%]\n\n10%\n\nTotal\n\nUM\n\neach\n\neach\n\n11/12/2013\n\nClient:\n\nTorres, Sutton and Weeks\n618 Perez Shoals Suite 978\nBradshawton, TN 51301\n\nTax Id: 909-87-3064\n\nNet price\n\nNet worth VAT [%]\n\n31,96 127,84 10%\n\n4,89 9,78 10%\nNet worth VAT\n137,62 13,76\n$ 137,62 $ 13,76\n\nGross\nworth\n\n140,62\n\n10,76\n\nGross worth\n151,38\n\n$ 151,38",
+    "cleaned_text": "invoice date issue seller carter inc smith streets mariahchester pa tax d iban gb89dnyk55635059269556 items description qty tks jesus hardback cased book haida art culture summary vat total um 11/12/2013 client torres sutton weeks perez shoals suite bradshawton tn tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "55635059269556",
+        "invoice_date": "11/12/2013",
+        "total_amount": "89",
+        "tax_amount": "89",
+        "organizations": [
+            "carter inc smith"
+        ]
+    }
+}

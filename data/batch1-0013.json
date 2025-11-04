@@ -1,0 +1,15 @@
+{
+    "file_name": "batch1-0013.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0013.jpg",
+    "extracted_text": "Invoice no: 57986024\n\nDate of issue:\n\nSeller:\n\nSchmidt LLC\n5107 Christina Orchard Apt. 670\nWest Conniemouth, MD 43698\n\nTax Id: 959-72-2889\nIBAN: GBO2QDFL22211399552517\n\nITEMS\nNo. Description Qty\n1. Straw Dogs : Thoughts on 5,00\n\nHumans and Other Animals,\nPaperback by Gray, John, L...\n\n2. Quilts of Illusion 5,00\nBE Selected poetry of W H Auden 1,00\n4. In the Footsteps of the Russian 4,00\nSnowman (Paperback or\nSoftback)\nBe Steam Yacht Varuna, Brand 1,00\n\nNew, Free shipping in the US\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n10/17/2015\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\nAllen PLC\n\n157 Michaela Station\nMariafort, IL 29394\n\nTax Id: 907-74-8078\n\nNet price\n\n13,99\n\n5,79\n\n4,89\n\n25,87\n\n8,45\n\nNet worth\n215,72\n\n$ 215,72\n\nNet worth VAT [%]\n69,95 10%\n28,95 10%\n\n4,89 10%\n103,48 10%\n8,45 10%\n\nVAT\n\n21,57\n\n$ 21,57\n\nGross\nworth\n\n76,95\n\n31,85\n\n5,38\n\n113,83\n\n9,29\n\nGross worth\n\n237,29\n\n$ 237,29",
+    "cleaned_text": "invoice date issue seller schmidt llc christina orchard apt west conniemouth md tax d iban gbo2qdfl22211399552517 items description qty straw dog thought humans animals paperback gray john l quilt illusion select poetry w h auden footsteps russian snowman paperback softback steam yacht varuna brand new free shipping summary vat total 10/17/2015 um eacn eacn eacn eacn eacn client allen plc michaela station mariafort il tax d net price net worth net worth vat vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "22211399552517",
+        "invoice_date": "10/17/2015",
+        "total_amount": "2",
+        "tax_amount": "2",
+        "organizations": [
+            "llc christina orchard apt west conniemouth"
+        ]
+    }
+}

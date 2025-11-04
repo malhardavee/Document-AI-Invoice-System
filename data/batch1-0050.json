@@ -1,0 +1,12 @@
+{
+    "file_name": "batch1-0050.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0050.jpg",
+    "extracted_text": "Invoice no: 53553822\n\nDate of issue: 07/24/2012\n\nSeller: Client:\n\nLee-Brown Bass, Kelly and Barnes\n\n082 Christopher Club Apt. 771 54916 Diana Passage Apt. 658\nThomasberg, OH 42949 East Steven, NV 32196\n\nTax Id: 926-74-9803 Tax Id: 935-94-0783\n\nIBAN: GB21NRBX59248288874823\n\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross\nworth\ntks 24\" Marble White Coffee Top 3,00 each 918,17 2 754,51 10% 3 029,96\nTable Inlay Lapis Stone\nFurniture Indoor Decor W045\n2. 6'x3' Marvelous Marble Living 4,00 each 5 087,20 20 348,80 10% 22 383,68\nRoom Table Top Inlay Scagliola\nInlay Decor H602C\nSh 12\" White Marble Coffee Table 1,00 each 295,73 295,73 10% 325,30\nTop Lapis Turquoise Floral Inlay\nHome Decors W538\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n10% 23 399,04 2 339,90 25 738,94\n\nTotal $ 23 399,04 $ 2 339,90 $ 25 738,94",
+    "cleaned_text": "invoice date issue 07/24/2012 seller client lee brown bass kelly barnes christopher club apt diana passage apt thomasberg oh east steven nv tax d tax d iban gb21nrbx59248288874823 items description qty um net price net worth vat gross worth tks marble white coffee table inlay lapis stone furniture indoor decor w045 6'x3 marvelous marble living room table inlay scagliola inlay decor h602c sh white marble coffee table lapis turquoise floral inlay home decors w538 summary vat net worth vat gross worth total",
+    "extracted_fields": {
+        "invoice_number": "2012",
+        "invoice_date": "07/24/2012",
+        "total_amount": "07",
+        "tax_amount": "07"
+    }
+}

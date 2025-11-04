@@ -1,0 +1,15 @@
+{
+    "file_name": "batch1-0044.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0044.jpg",
+    "extracted_text": "Invoice no: 12323459\n\nDate of issue:\n\nSeller:\n\nWright, Gonzalez and Gomez\n45164 Day Village Apt. 954\nSimmonsstad, NM 14711\n\nTax Id: 902-87-8627\nIBAN: GB33EMHE63462278604328\n\nITEMS\nNo. Description Qty\ntks Zara Yellow Shift Dress XS 3,00\nSUMMARY\nVAT [%]\n\nTotal\n\n10%\n\nUM\n\neach\n\n08/04/2013\n\nClient:\n\nMoore-Scott\n381 Denise Ridges\nPort Ericport, WY 05623\n\nTax Id: 960-94-6747\n\nNet price Net worth VAT [%]\n24,75 74,25 10%\nNet worth VAT\n74,25 7,43\n$ 74,25 $ 7,43\n\nGross\nworth\n\n81,68\n\nGross worth\n81,68\n\n$ 81,68",
+    "cleaned_text": "invoice date issue seller wright gonzalez gomez day village apt simmonsstad nm tax d iban gb33emhe63462278604328 items description qty tks zara yellow shift dress xs summary vat total um 08/04/2013 client moore scott denise ridges port ericport wy tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "63462278604328",
+        "invoice_date": "08/04/2013",
+        "total_amount": "33",
+        "tax_amount": "33",
+        "organizations": [
+            "08/04/2013"
+        ]
+    }
+}

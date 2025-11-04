@@ -1,0 +1,16 @@
+{
+    "file_name": "batch1-0024.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0024.jpg",
+    "extracted_text": "Invoice no: 65028137\n\nDate of issue:\n\nSeller:\n\nJohnson, Barrett and King\n2008 Thomas Square\nSanchezmouth, AK 49318\n\nTax Id: 944-72-9866\nIBAN: GB10AMVD30795287137531\n\nITEMS\n\nNo. Description\n\n1. Fast Dell Optiplex Windows 10\nDesktop Computer Tower PC\nCore i3 3.1GHz 4GB 320GB\n\nSUMMARY\n\nVAT [%]\n\nTotal\n\n01/03/2014\n\nClient:\n\nTownsend-Mitchell\n0681 Thomas Field\nMichaelshire, FL 64856\n\nTax Id: 988-84-2952\n\nNet price Net worth VAT [%]\n\neach 89,95 89,95 10%\nNet worth VAT\n89,95 9,00\n$ 89,95 $ 9,00\n\nGross\nworth\n\n98,95\n\nGross worth\n98,95\n\n$ 98,95",
+    "cleaned_text": "invoice date issue seller johnson barrett king thomas square sanchezmouth ak tax d iban gb10amvd30795287137531 items description fast dell optiplex windows desktop computer tower pc core i3 3.1ghz gb gb summary vat total 01/03/2014 client townsend mitchell thomas field michaelshire fl tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "30795287137531",
+        "invoice_date": "01/03/2014",
+        "total_amount": "10",
+        "tax_amount": "10",
+        "organizations": [
+            "gb10amvd30795287137531",
+            "dell optiplex windows desktop computer"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "file_name": "batch1-0035.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0035.jpg",
+    "extracted_text": "Invoice no: 78605417\n\nDate of issue:\n\nSeller:\n\nCampos LLC\n15809 Christina Cove Apt. 190\nDanielmouth, OR 11509\n\nTax Id: 909-73-7194\nIBAN: GB17WVTT56005535188252\n\nITEMS\n\nNo. Description Qty\n\ntks Nike Pre School Kids Size 12C 3,00\nJordan Jumpman Team II (PS)\nAQ2797-300\n\n2. Nike Air Force 1 Low 3,00\n314192-117 Triple White Youth\nBoys Size 5Y\n\nSh Adult Girl Version Hermione 2,00\n\nGranger Cosplay Costume\nGryffindor Kid size In Stock\n\n4. Adidas Baseball Youth Cleats 3,00\nSpikes Kids Shoes Black White\nSize 12K\n\nSe Harry Potter Hogwarts Adult 5,00\n\nChild Robe Cloak Halloween\nCOS Costumes Party Xmas.\n\n6. Sperry Infant Size 6 Boat Shoes 5,00\nEe DC Kids Pixie 3 Sneaker 1,00\n\n(Toddler/Little Kid/Big Kid) Color\nWHITE/BATTLESHIP\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n08/07/2017\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\n\nWilson-Hernandez\n5998 Stephen Squares\nMaryville, OH 19487\n\nTax Id: 940-87-7017\n\nNet price\n\n59,99\n\n54,95\n\n64,16\n\n11,99\n\n17,48\n\n0,99\n\n55,00\n\nNet worth\n656,46\n\n$ 656,46\n\nNet worth VAT [%]\n179,97 10%\n164,85 10%\n128,32 10%\n\n35,97 10%\n87,40 10%\n4,95 10%\n55,00 10%\nVAT\n65,65\n\n$ 65,65\n\nGross\nworth\n\n197,97\n\n181,34\n\n141,15\n\n39,57\n\n96,14\n\n5,45\n\n60,50\n\nGross worth\n\ni220\n\n$ 722,11",
+    "cleaned_text": "invoice date issue seller campos llc christina cove apt danielmouth tax d iban gb17wvtt56005535188252 items description qty tks nike pre school kids size 12c jordan jumpman team ii ps aq2797 nike air force low triple white youth boys size 5y sh adult girl version hermione granger cosplay costume gryffindor kid size stock adidas baseball youth cleats spikes kids shoes black white size k se harry potter hogwarts adult child robe cloak halloween cos costumes party xmas sperry infant size boat shoes ee dc kids pixie sneaker toddler little kid big kid color white battleship summary vat total 08/07/2017 um eacn eacn eacn eacn eacn eacn eacn client wilson hernandez stephen squares maryville oh tax d net price net worth net worth vat vat gross worth gross worth i220",
+    "extracted_fields": {
+        "invoice_number": "56005535188252",
+        "invoice_date": "08/07/2017",
+        "total_amount": "17",
+        "tax_amount": "17",
+        "organizations": [
+            "sperry",
+            "jordan jumpman",
+            "ps aq2797"
+        ]
+    }
+}

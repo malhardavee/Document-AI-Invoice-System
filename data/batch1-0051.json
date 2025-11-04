@@ -1,0 +1,15 @@
+{
+    "file_name": "batch1-0051.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0051.jpg",
+    "extracted_text": "Invoice no: 12590251\n\nDate of issue:\n\nSeller:\n\nHarrison, Tucker and Choi\n012 Rachel Inlet Apt. 289\nBurgessmouth, OK 81442\n\nTax Id: 923-72-8310\nIBAN: GB13JVBI29365211218318\n\nITEMS\n\nNo. Description\n\n1. Lilly Pulitzer 8 Sunkissed with\nGlow Janice Shift Dress\n\n23 db Yellow Link Print Fit and Flare\nSleeveless Dress Sz M/L\n\nBE FashionNova \u201cForecasting You\u201d\nMAXI DRESS TAUPE SZ M\n\n4. balmain dress 36\n5: Women Dress Gradient Color\nLong Sleeve Sexy Club Bodycon\n\nMini Dresses Casual\n\n6. J crew mercantile Knitted Tweed\nDress Size 4 Black And White\n\nSUMMARY\n\nTotal\n\nQty\n\n4,00\n\n1,00\n\n4,00\n\n1,00\n\n5,00\n\n4,00\n\nVAT [%]\n\n10%\n\n01/17/2016\n\nUM\n\neacn\n\neacn\n\neacn\n\neac\n\neacn\n\neacn\n\nClient:\n\nLogan-Rodriguez\n140 Gates Crossroad Apt. 980\nCannonchester, NV 21140\n\nTax Id: 975-78-6336\n\nNet price Net worth VAT [%]\n\n56,89 227,56\n\n14,99 14,99\n\n25,00 100,00\n\n1 550,00 1550,00\n\n1,59 37,95\n\n26,00 104,00\nNet worth VAT\n2 034,50 203,45\n\n$ 2 034,50 $ 203,45\n\n10%\n\n10%\n\n10%\n\n10%\n\n10%\n\n10%\n\nGross\n\nworth\n\n250,32\n\n16,49\n\n110,00\n\n1 705,00\n\n41,75\n\n114,40\n\nGross worth\n\n2 237,95\n\n$ 2 237,95",
+    "cleaned_text": "invoice date issue seller harrison tucker choi rachel inlet apt burgessmouth ok tax d iban gb13jvbi29365211218318 items description lilly pulitzer sunkisse glow janice shift dress db yellow link print fit flare sleeveless dress sz m l fashionnova forecast maxi dress taupe sz m balmain dress women dress gradient color long sleeve sexy club bodycon mini dresses casual j crew mercantile knitted tweed dress size black white summary total qty vat 01/17/2016 um eacn eacn eacn eac eacn eacn client logan rodriguez gates crossroad apt cannonchester nv tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "29365211218318",
+        "invoice_date": "01/17/2016",
+        "total_amount": "13",
+        "tax_amount": "13",
+        "organizations": [
+            "01/17/2016"
+        ]
+    }
+}

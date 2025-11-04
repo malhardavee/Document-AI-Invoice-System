@@ -1,0 +1,12 @@
+{
+    "file_name": "batch1-0012.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0012.jpg",
+    "extracted_text": "Invoice no: 13407985\n\nDate of issue:\n\nSeller:\n\nNicholson, Miller and Webster\nUSS Lee\nFPO AE 74393\n\nTax Id: 962-88-9077\nIBAN: GB23TMKM50357047352524\n\nITEMS\nNo. Description Qty\ntks Adult Kids Pokemon Pikachu 5,00\n\nKigurumi Pajama Cosplay\nChristmas Costume Sleepwear\n\n2. Vintage 90s Sostanza Plus Size 3,00\nDress 22W Floral Cottagecore\n\nBe balmain dress 36 3,00\n\n4. Lilly Pulitzer 8 Sunkissed with 2,00\n\nGlow Janice Shift Dress\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n11/22/2013\n\nUM\n\neach\n\neach\n\neach\n\neach\n\nClient:\n\nMccormick and Sons\n22688 Ortiz Plaza\nMeganfort, WA 91964\n\nTax Id: 997-95-5690\n\nNet price\n\n9,95\n\n49,96\n\n1 550,00\n\n56,89\n\nNet worth\n4 963,41\n\n$ 4 963,41\n\nNet worth VAT [%]\n\n49,75 10%\n149,88 10%\n4 650,00 10%\n113,78 10%\n\nVAT\n\n496,34\n\n$ 496,34\n\nGross\nworth\n\n54,73\n\n164,87\n\n5 115,00\n\n125,16\n\nGross worth\n5 459,75\n\n$5 459,75",
+    "cleaned_text": "invoice date issue seller nicholson miller webster uss lee fpo ae tax d iban gb23tmkm50357047352524 items description qty tks adult kid pokemon pikachu kigurumi pajama cosplay christmas costume sleepwear vintage 90 sostanza plus size dress 22w floral cottagecore balmain dress lilly pulitzer sunkisse glow janice shift dress summary vat total 11/22/2013 um client mccormick sons ortiz plaza meganfort wa tax d net price net worth net worth vat vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "50357047352524",
+        "invoice_date": "11/22/2013",
+        "total_amount": "23",
+        "tax_amount": "23"
+    }
+}

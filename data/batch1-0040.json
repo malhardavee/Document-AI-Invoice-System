@@ -1,0 +1,12 @@
+{
+    "file_name": "batch1-0040.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0040.jpg",
+    "extracted_text": "Invoice no: 74980573\n\nDate of issue:\n\nSeller:\n\nWest Group\n91959 Eric Pass\nWileyshire, SC 58295\n\nTax Id: 944-98-4907\nIBAN: GBO2HMXX72577746298746\n\nITEMS\n\nNo. Description\n\nAs Teva Hurricane 1019390 All\nBlack Sandals with Hook and\nLoop Closure, Youth's 5\n\n2. Keen Waterproof Hiking Shoes\nKids Boys Size 12 Brown Black\nOutdoor Sneakers\n\n3: KushyShoo Children Kid Rain\n\nBoot Shoes Rubber, Monkey,\nSize Youth 1\n\nSUMMARY\n\nTotal\n\nQty\n\n2,00\n\n3,00\n\n2,00\n\nVAT [%]\n\n10%\n\n09/27/2015\n\nUM\n\neach\n\neach\n\neach\n\nClient:\n\nZimmerman and Sons\n2246 Landry Court\nMurillomouth, AZ 66593\n\nTax Id: 901-84-6442\n\nNet price Net worth VAT [%]\n\n9,99 19,98 10%\n35,97 107,91 10%\n22,99 45,98 10%\n\nNet worth VAT\n\n173,87 17,39\n\n$ 173,87 $ 17,39\n\nGross\nworth\n\n21,98\n\n118,70\n\n50,58\n\nGross worth\n191,26\n\n$ 191,26",
+    "cleaned_text": "invoice date issue seller west group eric pass wileyshire sc tax d iban gbo2hmxx72577746298746 items description teva hurricane black sandals hook loop closure youth keen waterproof hiking shoes kid boys size brown black outdoor sneakers kushyshoo children kid rain boot shoes rubber monkey size youth summary total qty vat 09/27/2015 um client zimmerman sons landry court murillomouth az tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "72577746298746",
+        "invoice_date": "09/27/2015",
+        "total_amount": "2",
+        "tax_amount": "2"
+    }
+}

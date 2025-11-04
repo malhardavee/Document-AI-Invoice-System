@@ -1,0 +1,15 @@
+{
+    "file_name": "batch1-0054.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0054.jpg",
+    "extracted_text": "Invoice no: 69703455\n\nDate of issue:\n\nSeller:\n\nAnderson Group\n793 William Inlet\nMichaelhaven, RI 22480\n\nTax Id: 986-84-5664\nIBAN: GB16SIAU51187417423705\n\nITEMS\nNo. Description Qty\ntks Intel Compute Stick (32GB, Intel 4,00\nAtom, 1.33GHz, 2GB) PC\nDesktop\n2. AMD Dual Core 3.9Ghz 4GB 5,00\n\nDDR3 500GB WiFi Windows 10\noffice Desktop PC Computer\n\n3: Desktop Computer Super 3,00\nWritemaster Intel Core Duo\n\n4. GAMING PC Desktop Computer 2,00\nRGB BUNDLE Intel CORE i7\n16GB RAM Nvidia GTX 1650 1TB\n\n5: Fast HP Desktop Computer Intel 1,00\nProcessor 4GB 160GB 17\" LCD\nDVD Wifi Windows 10\n\n6. Computer Desktop Gaming i5 3,00\nRam 16G\nSUMMARY\nVAT [%]\n10%\nTotal\n\n02/06/2014\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\n\nHendricks, Hart and Miller\n\n81747 Brown Corner Apt. 501\nBaileyfort, WV 16678\n\nTax Id: 989-85-9523\n\nNet price\n\n45,00\n\n249,99\n\n22771\n\n549,99\n\n99,95\n\n315,00\n\nNet worth\n3 643,01\n\n$ 3 643,01\n\nNet worth\n\n180,00\n\n1 249,95\n\n68,13\n\n1 099,98\n\n99,95\n\n945,00\n\nVAT [%]\n\n10%\n\n10%\n\n10%\n\n10%\n\n10%\n\n10%\n\nVAT\n\n364,30\n\n$ 364,30\n\nGross\nworth\n\n198,00\n\n1 374,95\n\n74,94\n\n1 209,98\n\n109,95\n\n1 039,50\n\nGross worth\n\n4 007,31\n\n$ 4 007,31",
+    "cleaned_text": "invoice date issue seller anderson group william inlet michaelhaven ri tax d iban gb16siau51187417423705 items description qty tks intel compute stick gb intel atom 1.33ghz gb pc desktop amd dual core 3.9ghz gb ddr3 gb wifi windows office desktop pc computer desktop computer super writemaster intel core duo game pc desktop computer rgb bundle intel core i7 gb ram nvidia gtx tb fast hp desktop computer intel processor gb gb lcd dvd wifi windows computer desktop gaming i5 ram g summary vat total 02/06/2014 um eacn eacn eacn eacn eacn eacn client hendricks hart miller brown corner apt baileyfort wv tax d net price net worth net worth vat vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "51187417423705",
+        "invoice_date": "02/06/2014",
+        "total_amount": "16",
+        "tax_amount": "16",
+        "organizations": [
+            "intel"
+        ]
+    }
+}

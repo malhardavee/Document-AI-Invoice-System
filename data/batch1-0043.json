@@ -1,0 +1,16 @@
+{
+    "file_name": "batch1-0043.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0043.jpg",
+    "extracted_text": "Invoice no: 37107781\n\nDate of issue: 07/29/2012\n\nSeller: Client:\n\nWilliamson-Hernandez\n68869 Jones Port Suite 113\nParksstad, NM 27564\n\nLee-Burnett\n\n20130 Jessica Track Apt. 223\nWeberhaven, CO 86898\n\nTax Id: 946-73-8252\n\nTax Id: 994-84-0379\nIBAN: GB30TGFD70872253743837\n\nITEMS\nNo. Description Qty UM Net price Net worth VAT [%] Gross\nworth\ntks CLEARANCE!!! Fast HP Desktop 3,00 each 89,99 269,97 10% 296,97\nComputer PC Core 2 Duo\nWINDOWS 10 + LCD + KB + MS\n2. GAMING PC Desktop Computer 4,00 each 569,99 2 279,96 10% 2 507,96\nRGB BUNDLE Intel CORE i7\n16GB RAM Nvidia GTX 1650 1TB\nSUMMARY\nVAT [%] Net worth VAT Gross worth\n10% 2 549,93 254,99\n\n2 804,92\n\nTotal $ 2 549,93 $ 254,99 $ 2 804,92",
+    "cleaned_text": "invoice date issue 07/29/2012 seller client williamson hernandez jones port suite parksstad nm lee burnett jessica track apt weberhaven co tax d tax d iban gb30tgfd70872253743837 items description qty um net price net worth vat gross worth tks clearance fast hp desktop computer pc core duo windows lcd kb ms game pc desktop computer rgb bundle intel core i7 gb ram nvidia gtx tb summary vat net worth vat gross worth total",
+    "extracted_fields": {
+        "invoice_number": "2012",
+        "invoice_date": "07/29/2012",
+        "total_amount": "07",
+        "tax_amount": "07",
+        "organizations": [
+            "apt weberhaven co tax d tax d",
+            "gb30tgfd70872253743837"
+        ]
+    }
+}

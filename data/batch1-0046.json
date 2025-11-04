@@ -1,0 +1,15 @@
+{
+    "file_name": "batch1-0046.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0046.jpg",
+    "extracted_text": "Invoice no: 76778037\n\nDate of issue:\n\nSeller:\n\nWilson-Todd\n28306 Long Locks\nLake Josephfort, IL 41210\n\nTax Id: 962-88-2450\nIBAN: GB84DBNV37102667540169\n\nITEMS\nNo. Description Qty\n1. Florsheim kid's boys Lace Up 4,00\nOxford Suede Dress Shoes Size\n6M Solid Beige\n2. Youth Kids Boys New Balance 1,00\n\nArishi v2 Grey/Red Athletic\nRunning Shoes Size 6.5 M\n\nBh PUMA RS DREAMER SUPER 4,00\nMARIO 64 NINTENDO Little Kids\nUS 2.5\n\n4. Kid's Unicorn Sunglasses Girls 2,00\nRainbow Mythical Fashion\nShades\n\nSe Beyblade Burst B-163 Superking 2,00\n\nBrave Valkyrie.Ev' 2A Top\n/Launcher /Grip Kid Toy\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n03/15/2021\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\n\nSmith and Sons\nUnit 7456 Box 8480\nDPO AP 59910\n\nTax Id: 910-87-8964\n\nNet price Net worth VAT [%]\n29,99 119,96 10%\n26,99 26,99 10%\n\n125,00 500,00 10%\n9,95 19,90 10%\n11,59 23,18 10%\nNet worth VAT\n690,03 69,00\n$ 690,03 $ 69,00\n\nGross\nworth\n\n131,96\n\n29,69\n\n550,00\n\n21,89\n\n25,50\n\nGross worth\n\n759,03\n\n$ 759,03",
+    "cleaned_text": "invoice date issue seller wilson todd long locks lake josephfort il tax d iban gb84dbnv37102667540169 items description qty florsheim kid boy lace oxford suede dress shoes size m solid beige youth kid boys new balance arishi v2 grey red athletic running shoes size m bh puma rs dreamer super mario nintendo little kids kid unicorn sunglasses girl rainbow mythical fashion shades se beyblade burst b-163 superking brave valkyrie ev 2a /launcher /grip kid toy summary vat total 03/15/2021 um eacn eacn eacn eacn eacn client smith sons unit box dpo ap tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "37102667540169",
+        "invoice_date": "03/15/2021",
+        "total_amount": "84",
+        "tax_amount": "84",
+        "organizations": [
+            "grey red athletic running"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file_name": "batch1-0027.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0027.jpg",
+    "extracted_text": "Invoice no: 44848471\n\nDate of issue:\n\nSeller:\n\nProctor, Levy and Willis\n2297 Jessica Locks Apt. 407\nJonside, LA 78714\n\nTax Id: 902-74-7536\n\nIBAN: GB89NZLM61247862676381\n\nITEMS\n\nNo.\n\nDescription\n\nAdidas Baseball Youth Cleats\nSpikes Kids Shoes Black White\nSize 12K\n\nPUMA RS DREAMER SUPER\nMARIO 64 NINTENDO Little Kids\nUS 2.5\n\nBoys Black Dress Shoes\n\nNWT VANS BOYS/YOUTH SK8-HI\nMTE SNEAKERS/SHOES SIZE\n13.BRAND NEW FOR 2020!\nwow!\n\nSUMMARY\n\nTotal\n\nQty\n\n2,00\n\n5,00\n\n3,00\n\n4,00\n\nVAT [%]\n\n10%\n\neacn\n\neacn\n\neacn\n\neacn\n\n03/26/2021\n\nClient:\n\nRoth, Morris and Schultz\n623 Rebekah Causeway\nGregoryport, ND 69850\n\nTax Id: 913-71-7249\n\nUM Net price Net worth VAT [%]\n11,99 23,98 10%\n125,00 625,00 10%\n4,50 13,50 10%\n24,99 99,96 10%\nNet worth VAT\n762,44 76,24\n$ 762,44 $ 76,24\n\nGross\nworth\n\n26,38\n\n687,50\n\n14,85\n\n109,96\n\nGross worth\n\n838,68\n\n$ 838,68",
+    "cleaned_text": "invoice date issue seller proctor levy willis jessica locks apt jonside la tax d iban gb89nzlm61247862676381 items description adidas baseball youth cleats spikes kid shoes black white size k puma rs dreamer super mario nintendo little kids boys black dress shoes nwt van boy youth sk8 hi mte sneakers shoes size 13.brand new wow summary total qty vat eacn eacn eacn eacn 03/26/2021 client roth morris schultz rebekah causeway gregoryport nd tax d um net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "61247862676381",
+        "invoice_date": "03/26/2021",
+        "total_amount": "89",
+        "tax_amount": "89",
+        "organizations": [
+            "03/26/2021"
+        ]
+    }
+}

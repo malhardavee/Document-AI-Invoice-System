@@ -1,0 +1,15 @@
+{
+    "file_name": "batch1-0055.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0055.jpg",
+    "extracted_text": "Invoice no: 17290430\n\nDate of issue:\n\nSeller:\n\nHodge-Stokes\n405 Christensen Loop\nBrownbury, OH 52221\n\nTax Id: 943-98-8353\nIBAN: GB87UTMB32681347261430\n\nITEMS\nNo. Description Qty\ntks Abstract Blue Gray Gradient 5,00\n\nBedside Area Rugs Bedroom\nDecor Carpets Non-Slip Mat\n\n2. Yilong 5'x7.3' Hand Knotted Silk 4,00\nRug Home Decor Traditional\nRaindrop Carpet 1549\n\nSh Romantic Rose Flowers Area 1,00\nRugs Kitchen Living Room Floor\nMat Non-slip Carpets\n\n4. Checkered Gabbeh Kashkoli 5,00\nOriental Area Rug\n\nContemporary Hand-knotted\n6x8 Carpet\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n05/27/2013\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\nHamilton Ltd\n\n9899 Bryan Springs\nClarkshire, AR 57184\n\nTax Id: 996-90-6187\n\nNet price\n\n36,98\n\n2 800,00\n\nAls) /\n\n417,24\n\nNet worth\n13 484,47\n\n$ 13 484,47\n\nNet worth VAT [%]\n\n184,90 10%\n11 200,00 10%\n13,37) 10%\n2 086,20 10%\nVAT\n1 348,45\n$ 1 348,45\n\nGross\nworth\n\n203,39\n\n12 320,00\n\n14,71\n\n2 294,82\n\nGross worth\n14 832,92\n\n$ 14 832,92",
+    "cleaned_text": "invoice date issue seller hodge stokes christensen loop brownbury oh tax d iban gb87utmb32681347261430 items description qty tks abstract blue gray gradient bedside area rugs bedroom decor carpets non slip mat yilong 5'x7.3 hand knotted silk rug home decor traditional raindrop carpet sh romantic rose flowers area rugs kitchen living room floor mat non slip carpets checkered gabbeh kashkoli oriental area rug contemporary hand knot 6x8 carpet summary vat total 05/27/2013 um eacn eacn eacn eacn client hamilton ltd bryan springs clarkshire ar tax d net price als net worth net worth vat vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "32681347261430",
+        "invoice_date": "05/27/2013",
+        "total_amount": "87",
+        "tax_amount": "87",
+        "organizations": [
+            "hamilton ltd bryan springs"
+        ]
+    }
+}

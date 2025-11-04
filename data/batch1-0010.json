@@ -1,0 +1,15 @@
+{
+    "file_name": "batch1-0010.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0010.jpg",
+    "extracted_text": "Invoice no: 99314100\n\nDate of issue: 06/25/2014\n\nSeller: Client:\n\nMichael, Farrell and Lee\n95360 Washington Inlet\nPort Sandraview, CT 01507\n\nTax Id: 993-76-1179\nIBAN: GB20WFQR49970703277369\n\nITEMS\nNo. Description Qty UM\ntks Real Madrid Inflatable Chair 5,00 each\n(SG16136)\n2. 60 Inches Marble Dinning Table 1,00 each\n\nTop Inlay Work Lawn Table with\nMulti Color Stones\n\nSUMMARY\nVAT [%]\n10%\n\nTotal\n\nCollins, Barrett and Schroeder\n2314 Beard Via\nKellybury, GA 19687\n\nTax Id: 908-81-7850\n\nNet price Net worth VAT [%]\n\n43,95 219,75 10%\n\n5 756,00 5 756,00 10%\nNet worth VAT\n5 975,75 597,58\n$5 975,75 $ 597,58\n\nGross\nworth\n\n241,73\n\n6 331,60\n\nGross worth\n6573,33)\n\n$ 6 573,33",
+    "cleaned_text": "invoice date issue 06/25/2014 seller client michael farrell lee washington inlet port sandraview ct tax d iban gb20wfqr49970703277369 items description qty um tks real madrid inflatable chair sg16136 inch marble dinning table inlay work lawn table multi color stones summary vat total collins barrett schroeder beard kellybury ga tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "2014",
+        "invoice_date": "06/25/2014",
+        "total_amount": "06",
+        "tax_amount": "06",
+        "organizations": [
+            "ga"
+        ]
+    }
+}

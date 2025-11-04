@@ -1,0 +1,16 @@
+{
+    "file_name": "batch1-0049.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0049.jpg",
+    "extracted_text": "Invoice no: 26700559\n\nDate of issue:\n\nSeller:\n\nMartinez PLC\n8108 Allen Meadows\nEast Victorburgh, MD 45631\n\nTax Id: 974-76-2764\nIBAN: GB35YDNN61347660277835\n\nITEMS\n\nNo. Description\n\n1. My Life in and Out of the Rough\nby John Daly (2006, Hardcover)\nFREE SHIPPING\n\n2. 01365 Days + This Day +\nAnother 365 days by Blanka\nLipinska (English version)]]\n\n3: Book: The Lee-Enfield by lan\nSkennerton- Signed Edition\n\nSUMMARY\n\nTotal\n\n01/11/2018\n\nClient:\n\nHarrison and Sons\n\n64237 Michael Harbor Suite 710\n\nSouth Kelly, LA 05220\n\nTax Id: 958-82-3330\n\nQty UM Net price Net worth VAT [%]\n3,00 each 6,74 20,22 10%\n3,00 each 2,21 6,63 10%\n3,00 each 94,95 284,85 10%\nVAT [%] Net worth VAT\n10% 311,70 31,17\n$ 311,70 $ 31,17\n\nGross\nworth\n\n22,24\n\n7,29\n\n313,34\n\nGross worth\n\n342,87\n\n$ 342,87",
+    "cleaned_text": "invoice date issue seller martinez plc allen meadows east victorburgh md tax d iban gb35ydnn61347660277835 items description life rough john daly hardcover free shipping day day day blanka lipinska english version book lee enfield lan skennerton- signed edition summary total 01/11/2018 client harrison son michael harbor suite south kelly la tax d qty um net price net worth vat vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "61347660277835",
+        "invoice_date": "01/11/2018",
+        "total_amount": "35",
+        "tax_amount": "35",
+        "organizations": [
+            "martinez plc allen meadows",
+            "lipinska"
+        ]
+    }
+}

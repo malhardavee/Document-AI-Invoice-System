@@ -1,0 +1,15 @@
+{
+    "file_name": "batch1-0032.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0032.jpg",
+    "extracted_text": "Invoice no: 10942693\n\nDate of issue:\n\nSeller:\n\nColeman Inc\n706 Brady Fork\nWest Paulfort, NY 06654\n\nTax Id: 922-83-3513\nIBAN: GB76CSSR03453199859434\n\nITEMS\n\nNo. Description\n\n1. Yilong 2'x3' Traditional\nHandmade Silk Area Rugs Kid\nFriendly Floor Carpet 356B\n\n2. YILONG 4'x6' All over\nHandmade Carpet Dining Room\nHand Knotted Silk Rugs 082B\n3: Watercolor Butterfly Carpets\n\nKitchen Rug Anti Slip Mat Art\nLiving Room Carpets\n\nSUMMARY\n\nTotal\n\nQty\n\n1,00\n\n5,00\n\n2,00\n\nVAT [%]\n\n10%\n\n06/13/2018\n\nUM\n\neach\n\neach\n\neach\n\nClient:\n\nLopez-Garcia\n413 Snow Extensions\nWest Michealfort, ME 41012\n\nTax Id: 947-74-2259\n\nNet price Net worth VAT [%]\n\n1 200,00 1 200,00\n\n3 600,00 18 000,00\n\n14,39 28,78\nNet worth VAT\n19 228,78 1 922,88\n\n$ 19 228,78 $1 922,88\n\n10%\n\n10%\n\n10%\n\nGross\nworth\n\n1 320,00\n\n19 800,00\n\n31,66\n\nGross worth\n\n21 151,66\n\n$ 21 151,66",
+    "cleaned_text": "invoice date issue seller coleman inc brady fork west paulfort ny tax d iban gb76cssr03453199859434 items description yilong 2'x3 traditional handmade silk area rugs kid friendly floor carpet 356b yilong 4'x6 handmade carpet dining room hand knotted silk rugs 082b watercolor butterfly carpets kitchen rug anti slip mat art living room carpets summary total qty vat 06/13/2018 um client lopez garcia snow extensions west michealfort tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "03453199859434",
+        "invoice_date": "06/13/2018",
+        "total_amount": "76",
+        "tax_amount": "76",
+        "organizations": [
+            "coleman inc brady"
+        ]
+    }
+}

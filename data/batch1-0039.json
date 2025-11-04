@@ -1,0 +1,16 @@
+{
+    "file_name": "batch1-0039.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0039.jpg",
+    "extracted_text": "Invoice no: 35593328\n\nDate of issue:\n\nSeller:\n\nCruz-Carter\n11251 Braun Square\nNorth Alejandro, UT 73496\n\nTax Id: 938-91-6436\nIBAN: GB42RIFK65000994976015\n\nITEMS\n\nNo. Description Qty\n\n1. hp all in one desktop computer 4,00\ntouch screen\n\n2. W5 Pro Mini Pocket PC Windows 3,00\n10 Computer Stick Intel Z8350\nQuad Core\n\n3: Gaming PC Desktop Computer 1,00\n\nHDMI RGB Intel i7 RTX 2060,\nHDD+SSD, Windows 10, Wifi\n\n4. Lenovo C20-00...all in one 2,00\n\ndesktop computer ...with\nWireless Mouse.....\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n06/08/2011\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\n\nAlexander-Arias\n63947 Erin Parkway Apt. 073\nGuzmanshire, NY 08857\n\nTax Id: 942-92-5992\n\nNet price Net worth VAT [%]\n\n205,00 820,00 10%\n119,00 357,00 10%\n999,50 999,50 10%\n277,64 555,28 10%\nNet worth VAT\n2 731,78 273,18\n$ 2 731,78 $ 273,18\n\nGross\nworth\n902,00\n\n392,70\n\n1099,45\n\n610,81\n\nGross worth\n\n3 004,96\n\n$ 3 004,96",
+    "cleaned_text": "invoice date issue seller cruz carter braun square north alejandro ut tax d iban gb42rifk65000994976015 items description qty hp desktop computer touch screen w5 pro mini pocket pc windows computer stick intel z8350 quad core game pc desktop computer hdmi rgb intel i7 rtx hdd+ssd windows wifi lenovo c20 desktop computer wireless mouse summary vat total 06/08/2011 um eacn eacn eacn eacn client alexander arias erin parkway apt guzmanshire ny tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "65000994976015",
+        "invoice_date": "06/08/2011",
+        "total_amount": "42",
+        "tax_amount": "42",
+        "organizations": [
+            "hdd+ssd",
+            "intel"
+        ]
+    }
+}

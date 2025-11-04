@@ -1,0 +1,15 @@
+{
+    "file_name": "batch1-0053.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0053.jpg",
+    "extracted_text": "Invoice no: 32283117\n\nDate of issue:\n\nSeller:\n\nChapman-jJohnson\n505 Debra Ports\nPort Christopher, MA 10234\n\nTax Id: 901-76-0848\nIBAN: GB38GWQQ09778097007248\n\nITEMS\nNo. Description Qty\n1. SCOTTISH FOLKLORE LEGENDS - 3,00\n\n180 RARE BOOKS ON DVD -\nSCOTLAND HISTORY\nMYTHOLOGY 5\n\n2: v Pornhub PREMIUM LIFETIME 4,00\nAUTO RENEW | FAST DELIVERY\nv\n\n3: Straw Dogs : Thoughts on 1,00\nHumans and Other Animals,\nPaperback by Gray, John, L...\n\n4. Care & Repair of Furniture 1,00\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n11/05/2015\n\nUM\n\neacn\n\nClient:\n\nDiaz and Sons\n8060 Lisa Valleys Apt. 828\nNew John, ND 77007\n\nTax Id: 968-87-0278\n\nNet price Net worth VAT [%]\n10,95 32,85 10%\n3,99 15,96 10%\n13,99 13,99 10%\n4,25 4,25 10%\n\nNet worth VAT\n\n67,05 6,71\n\n$ 67,05 $ 6,71\n\nGross\nworth\n\n36,13\n\n17,56\n\n15,39\n\n4,68\n\nGross worth\n\n73,76\n\n$ 73,76",
+    "cleaned_text": "invoice date issue seller chapman jjohnson debra ports port christopher ma tax d iban gb38gwqq09778097007248 items description qty scottish folklore legends rare books dvd scotland history mythology v pornhub premium lifetime auto renew fast delivery v straw dog thought humans animals paperback gray john l care repair furniture summary vat total 11/05/2015 um eacn client diaz son lisa valleys apt new john nd tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "09778097007248",
+        "invoice_date": "11/05/2015",
+        "total_amount": "38",
+        "tax_amount": "38",
+        "organizations": [
+            "tax d iban"
+        ]
+    }
+}

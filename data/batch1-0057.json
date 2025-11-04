@@ -1,0 +1,15 @@
+{
+    "file_name": "batch1-0057.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0057.jpg",
+    "extracted_text": "Invoice no: 89299747\n\nDate of issue:\n\nSeller:\n\nJones, Davis and Moses\n6622 Davis Court\nCurtismouth, MA 23635\n\nTax Id: 921-74-6878\nIBAN: GB41VOYB69288847998165\n\nITEMS\nNo. Description Qty\n1. Vintage Crystal Red Wine 5,00\n\nGlasses NOS West Germany\n1983 6 10 ounce elegant stems\n\n2. Wine Bottle Holder From Costa 5,00\nRica Has A Parrot Painted On It\n\n3: Birthday Girl Wine Glass by 2,00\nLolita\n\n4. Metal Storage Shelf Wine Glass 2,00\nRack Wine Glasses for The\nCabinet\n\nSe Unicorn Wine Bottle Display 3,00\n\n6. 100pcs Heat Shrink Capsules 2,00\n\nPVC Wine Bottle Caps\nShrinkable Seal Film Covers\n3cm\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n04/14/2018\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\nCox LLC\n\n164 Dean Bypass\nLake Stephenchester, AR 78025\n\nTax Id: 967-86-2378\n\nNet price\n\n35,45\n\n5,00\n\n23,75\n\n22,42\n\nALS) 35)\n\n5,75\n\nNet worth\n353,64\n\n$ 353,64\n\nNet worth\n\nA PS)\n\n25,00\n\n47,50\n\n44,84\n\n47,55\n\n11,50\n\nVAT [%]\n\n10%\n\n10%\n\n10%\n\n10%\n\n10%\n\n10%\n\nVAT\n\n35,36\n\n$ 35,36\n\nGross\nworth\n\n194,98\n\n27,50\n\n52,25\n\n49,32\n\n52,30\n\n12,65\n\nGross worth\n\n389,00\n\n$ 389,00",
+    "cleaned_text": "invoice date issue seller jones davis moses davis court curtismouth ma tax d iban gb41voyb69288847998165 items description qty vintage crystal red wine glasses nos west germany ounce elegant stem wine bottle holder costa rica parrot painted birthday girl wine glass lolita metal storage shelf wine glass rack wine glasses cabinet se unicorn wine bottle display 100pcs heat shrink capsules pvc wine bottle caps shrinkable seal film covers cm summary vat total 04/14/2018 um eacn eacn eacn eacn eacn eacn client cox llc dean bypass lake stephenchester ar tax d net price als net worth net worth ps vat vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "69288847998165",
+        "invoice_date": "04/14/2018",
+        "total_amount": "41",
+        "tax_amount": "41",
+        "organizations": [
+            "ps"
+        ]
+    }
+}

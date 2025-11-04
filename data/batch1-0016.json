@@ -1,0 +1,12 @@
+{
+    "file_name": "batch1-0016.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0016.jpg",
+    "extracted_text": "Invoice no: 44456646\n\nDate of issue:\n\nSeller:\n\nAustin and Sons\n9090 Thomas Route Apt. 293\nJohnsonburgh, IA 81799\n\nTax Id: 916-98-8677\nIBAN: GB48PIBU37974446029688\n\nITEMS\nNo. Description Qty\ntks crewcuts shoes 4,00\n2. nickelodeon TMNT Teenage 2,00\n\nMutant Ninja Turtles D LM R 6in\nAction Figure Kids Toy\n\nBe Lands' End Kids Boys Snow 3,00\nWinter Boots Size 5 Blue Warm\nZip Up Easy On Easy Off\n\n4. Under Armour KIDS' LOCKDOWN 5,00\n4 BASKETBALL Black/Red/White\nYouth Sneakers: Sz 12k\n\nay SEVENTEEN Semicolon Special 5,00\n\nAlbum [Photocard / Digi Pack\nCover / Mini Card]\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n03/21/2015\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\n\nDelacruz, Hinton and Mckinney\n3867 Annette Tunnel\n\nNorth Codybury, FL 61678\n\nTax Id: 940-84-8016\n\nNet price\n\n12,00\n\n42,98\n\n9,50\n\n19,99\n\n4,99\n\nNet worth\n\n287,36\n\n$ 287,36\n\nNet worth VAT [%]\n48,00 10%\n85,96 10%\n28,50 10%\n99,95 10%\n24,95 10%\n\nVAT\n28,74\n$ 28,74\n\nGross\nworth\n\n52,80\n\n94,56\n\n31,35\n\n109,94\n\n27,45\n\nGross worth\n\n316,10\n\n$ 316,10",
+    "cleaned_text": "invoice date issue seller austin son thomas route apt johnsonburgh ia tax d iban gb48pibu37974446029688 items description qty tks crewcut shoe nickelodeon tmnt teenage mutant ninja turtles d lm r action figure kid toy land end kid boys snow winter boots size blue warm zip easy easy armour kids lockdown basketball black red white youth sneakers sz 12k ay semicolon special album photocard digi pack cover mini card summary vat total 03/21/2015 um eacn eacn eacn eacn eacn client delacruz hinton mckinney annette tunnel north codybury fl tax d net price net worth net worth vat vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "37974446029688",
+        "invoice_date": "03/21/2015",
+        "total_amount": "48",
+        "tax_amount": "48"
+    }
+}

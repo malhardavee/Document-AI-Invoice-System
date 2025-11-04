@@ -1,0 +1,12 @@
+{
+    "file_name": "batch1-0017.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0017.jpg",
+    "extracted_text": "Invoice no: 98858130\n\nDate of issue:\n\nSeller:\n\nDominguez, Jackson and Steele\n98309 Stephanie Stream\nMichaelbury, RI 57219\n\nTax Id: 969-72-5121\nIBAN: GB210JGQ49248059733020\n\nITEMS\nNo. Description Qty\ntks Wine Glasses Set Of 4 2,00\n2. Uncork New York rolling 5,00\n\nvineryards Wine glass set of 2\n\n3: Anthropologie Gold Elegant 1,00\nSwan Decorative Metal Bottle\nStopper Wine Saver\n\n4. Moonshine Still 8Gal/30L Water 3,00\nAlcohol Distiller Home Brew\nWine Making Kit 3 Pot\n\n5: 4 Tupperware Wine Stemless 2,00\n\nCups Set Acrylic Plastic Shatter\nProof Beverages New\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n01/28/2021\n\nUM\n\neacn\n\neacn\n\neacn\n\neac\n\neacn\n\nClient:\n\nRodriguez, Hall and Tanner\nPSC 6611, Box 2668\nAPO AP 07491\n\nTax Id: 941-88-5692\n\nNet price Net worth VAT [%]\n6,00 12,00 10%\n5,99 29,95 10%\n19,98 19,98 10%\n89,99 269,97 10%\n34,99 69,98 10%\nNet worth VAT\n401,88 40,19\n$ 401,88 $ 40,19\n\nGross\nworth\n\n13,20\n\n32,95\n\n21,98\n\n296,97\n\n76,98\n\nGross worth\n\n442,07\n\n$ 442,07",
+    "cleaned_text": "invoice date issue seller dominguez jackson steele stephanie stream michaelbury ri tax d iban gb210jgq49248059733020 items description qty tks wine glasses set uncork new york rolling vineryard wine glass set anthropologie gold elegant swan decorative metal bottle stopper wine saver moonshine 8gal/30l water alcohol distiller home brew wine make kit pot tupperware wine stemless cups set acrylic plastic shatter proof beverages new summary vat total 01/28/2021 um eacn eacn eacn eac eacn client rodriguez hall tanner psc box apo ap tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "210",
+        "invoice_date": "01/28/2021",
+        "total_amount": "210",
+        "tax_amount": "210"
+    }
+}

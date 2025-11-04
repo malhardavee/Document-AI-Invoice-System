@@ -1,0 +1,16 @@
+{
+    "file_name": "batch1-0056.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0056.jpg",
+    "extracted_text": "Invoice no: 13367493\n\nDate of issue:\n\nSeller:\n\nTerry, Crawford and Vega\n2744 Olson Extension Suite 147\nLake Edward, VA 62672\n\nTax Id: 926-79-2155\nIBAN: GB79WHIU45376170748238\n\nITEMS\nNo. Description Qty\ntks Escada Long Black Dress SZ 40 4,00\n\n100% Silk Lining\n\n2. Boden Size 8 US Green & Navy 2,00\nDark Blue Belted Midi Wool Knit\nSweater Fall Dress\n\nBe J crew mercantile Knitted Tweed 1,00\nDress Size 4 Black And White\n\n4. NEW NWT OPEN BACK 5,00\nXHILERATION PLUM LACY\nDRESS WOMENS SIZE MEDIUM\n10/12\n\n5: Bcbgeneration Black Sleeveless 1,00\nLace Back Cut Out Dress Sz 2\n\n6. Papaya Floral Dress Medium 4,00\nBlue White\nSUMMARY\nVAT [%]\n10%\nTotal\n\n02/21/2012\n\nClient:\n\nMartin-Schmidt\n726 Mills Island Apt. 702\nRandyville, MA 40113\n\nTax Id: 912-97-1608\n\nUM Net price Net worth VAT [%]\neach 74,99 299,96 10%\neach 35,00 70,00 10%\neach 26,00 26,00 10%\neach 2,99 14,95 10%\neach 2,99 2,99 10%\neach 9,00 36,00 10%\n\nNet worth VAT\n449,90 44,99\n$ 449,90 $ 44,99\n\nGross\nworth\n329,96\n\n77,00\n\n28,60\n\n16,45\n\n3,29\n\n39,60\n\nGross worth\n\n494,89\n\n$ 494,89",
+    "cleaned_text": "invoice date issue seller terry crawford vega olson extension suite lake edward va tax d iban gb79whiu45376170748238 items description qty tks escada long black dress sz silk lining boden size green navy dark blue belted midi wool knit sweater fall dress j crew mercantile knitted tweed dress size black white new nwt open xhileration plum lacy dress womens size medium bcbgeneration black sleeveless lace cut dress sz papaya floral dress medium blue white summary vat total 02/21/2012 client martin schmidt mills island apt randyville ma tax d um net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "45376170748238",
+        "invoice_date": "02/21/2012",
+        "total_amount": "79",
+        "tax_amount": "79",
+        "organizations": [
+            "va tax d",
+            "navy"
+        ]
+    }
+}

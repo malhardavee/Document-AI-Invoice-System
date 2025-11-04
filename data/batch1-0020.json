@@ -1,0 +1,17 @@
+{
+    "file_name": "batch1-0020.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0020.jpg",
+    "extracted_text": "Invoice no: 15001300\n\nDate of issue:\n\nSeller:\n\nKerr, Ryan and Gomez\n8069 Nicholas Greens\nLake Vincentbury, RI 06574\n\nTax Id: 929-82-4759\nIBAN: GB32MKCO74382010852522\n\nITEMS\nNo. Description Qty\ntks 100Pcs Wall Stickers Home 1,00\n\nDecor Glow In The Dark Star\nsticker Decal Kids room\n\n2. PUMA Boys Kids Athletic Shoes 3,00\nFlats Plimsouls Gray Black\nDenim size 12C\n\n3: Joma Youth Boys Gol 205 Piso 5,00\nMultitaco Soccer Cleats 2.5\nWhite Blue Yellow NEW\n\n4. Fila Boys Skele-Toes Bay RNR 3 3,00\nBlack Running Shoes 11\nMedium (D) Little Kid 9953\n\nay Kid Connection Kids Winter 5,00\n\nWaterproof Boots Size 5 Cozy &\nWarm Slipn On Booties\n\nSUMMARY\n\nVAT [%]\n10%\n\nTotal\n\n02/18/2014\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\n\nMason Ltd\n8053 Friedman Burg\nPatrickfort, FL 71567\n\nTax Id: 991-91-7229\n\nNet price Net worth VAT [%]\n1,70 1,70 10%\n19,00 57,00 10%\n19,99 99,95 10%\n10,25 30,75 10%\n21,59 107,95 10%\nNet worth VAT\n297,35 29,73\n\n$ 297,35 $ 29,73\n\nGross\nworth\n\n1,87\n\n62,70\n\n109,94\n\n33,83\n\n118,75\n\nGross worth\n\n327,08\n\n$ 327,08",
+    "cleaned_text": "invoice date issue seller kerr ryan gomez nicholas greens lake vincentbury ri tax d iban gb32mkco74382010852522 items description qty tks 100pcs wall stickers home decor glow dark star sticker decal kids room puma boys kids athletic shoes flat plimsouls gray black denim size 12c joma youth boys gol piso multitaco soccer cleats white blue yellow new fila boys skele toes bay rnr black running shoes medium d little kid ay kid connection kids winter waterproof boots size cozy warm slipn booties summary vat total 02/18/2014 um eacn eacn eacn eacn eacn client mason ltd friedman burg patrickfort fl tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "74382010852522",
+        "invoice_date": "02/18/2014",
+        "total_amount": "32",
+        "tax_amount": "32",
+        "organizations": [
+            "tax d iban",
+            "mason ltd",
+            "multitaco"
+        ]
+    }
+}

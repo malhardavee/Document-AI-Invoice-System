@@ -1,0 +1,15 @@
+{
+    "file_name": "batch1-0019.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0019.jpg",
+    "extracted_text": "Invoice no: 56908352\n\nDate of issue:\n\nSeller:\n\nLozano, Wang and Smith\n8162 Dunn Radial\nLauraland, ID 83827\n\nTax Id: 914-76-8473\nIBAN: GB68RRBM34982962207975\n\nITEMS\n\nNo. Description\n\n1. Rage By Bob Woodward -\nDonald Trump NEW\nHARDCOVER Sept 2020\n\n2. Spectacular Ireland Coffee\nTable Book - very large\n\n3: The Complete Life's Little\nInstruction Book by Brown, H.\nJackson, Jr.\n\nSUMMARY\n\nTotal\n\nQty\n\n5,00\n\n4,00\n\n4,00\n\nVAT [%]\n\n10%\n\n01/11/2015\n\nClient:\n\nUM\n\neach\n\neach\n\neach\n\nEvans, Curtis and Salinas\n13078 Mora Garden\nMorseberg, WV 48959\n\nTax Id: 904-76-9217\n\nNet price Net worth VAT [%]\n22,93 114,65 10%\n10,00 40,00 10%\n\n4,09 16,36 10%\nNet worth VAT\n171,01 17,10\n$ 171,01 $ 17,10\n\nGross\nworth\n\n126,12\n\n44,00\n\n18,00\n\nGross worth\n188,11\n\n$ 188,11",
+    "cleaned_text": "invoice date issue seller lozano wang smith dunn radial lauraland id tax d iban gb68rrbm34982962207975 items description rage bob woodward donald trump new hardcover sept spectacular ireland coffee table book large complete life little instruction book brown h. jackson jr. summary total qty vat 01/11/2015 client um evans curtis salinas mora garden morseberg wv tax d net price net worth vat net worth vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "34982962207975",
+        "invoice_date": "01/11/2015",
+        "total_amount": "68",
+        "tax_amount": "68",
+        "organizations": [
+            "smith dunn radial lauraland"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "file_name": "batch1-0038.jpg",
+    "file_path": "./data/raw/batch_3/batch_1/batch1_1/batch1-0038.jpg",
+    "extracted_text": "Invoice no: 37060863\n\nDate of issue:\n\nSeller:\n\nFloyd-Figueroa\n8060 Bass Walks\nColeshire, OK 97999\n\nTax Id: 964-80-9962\nIBAN: GB79IBVF13930075179399\n\nITEMS\nNo. Description Qty\ntks VTech Game Console Bundle- 2,00\n\nConsole, Art Studio, Games, 2\nControllers- TESTED!\n\n2. NEW Microsoft Xbox 360 Slim 2,00\n4GB Black Console W/2 Games\nAnd Kinect Bundle +EXTRA\n\nSh Retro Arcade Game Console All 1,00\nIn One 128G Raspberry Pl 4\nModel B 4GB Plug Play\n\n4. B451 Nintendo DSi console Pink 4,00\nJapan NDS x\n5: Nintendo Gameboy Pocket 5,00\n\nConsole Clear Purple with Box\nMGB-001 Japan Tested 53\n\n6. sega cdx console with original 1,00\npower supply (laser info-read\ndescription)\n\nTE Nintendo Wii U WUP-101(02) 1,00\n32GB Console - Black - US\nModel\nSUMMARY\nVAT [%]\n10%\nTotal\n\n01/30/2021\n\nUM\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\neacn\n\nClient:\n\nTorres and Sons\n\n2696 Trevino Ridges\nSouth Sara, MT 86708\n\nTax Id: 953-87-7430\n\nNet price\n\n219,99\n\n275,00\n\n149,99\n\n9,99\n\n85,00\n\n194,00\n\n40,00\n\nNet worth\n1 838,93\n\n$ 1 838,93\n\nNet worth\n\n439,98\n\n550,00\n\n149,99\n\n39,96\n\n425,00\n\n194,00\n\n40,00\n\nVAT [%]\n\n10%\n\n10%\n\n10%\n\n10%\n\n10%\n\n10%\n\n10%\n\nVAT\n\n183,89\n\n$ 183,89\n\nGross\nworth\n\n483,98\n\n605,00\n\n164,99\n\n43,96\n\n467,50\n\n213,40\n\n44,00\n\nGross worth\n2 022,82\n\n$ 2 022,82",
+    "cleaned_text": "invoice date issue seller floyd figueroa bass walks coleshire ok tax d iban gb79ibvf13930075179399 items description qty tks vtech game console bundle- console art studio games controllers- test new microsoft xbox slim gb black console w/2 games kinect bundle extra sh retro arcade game console g raspberry pl model b gb plug play b451 nintendo dsi console pink japan nds x nintendo gameboy pocket console clear purple box mgb-001 japan test sega cdx console original power supply laser info read description te nintendo wii u wup-101(02 gb console black model summary vat total 01/30/2021 um eacn eacn eacn eacn eacn eacn eacn client torres son trevino ridges south sara mt tax d net price net worth net worth vat vat gross worth gross worth",
+    "extracted_fields": {
+        "invoice_number": "13930075179399",
+        "invoice_date": "01/30/2021",
+        "total_amount": "79",
+        "tax_amount": "79",
+        "organizations": [
+            "mt tax d",
+            "xbox",
+            "nintendo wii"
+        ]
+    }
+}
