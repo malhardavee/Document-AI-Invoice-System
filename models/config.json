@@ -1,0 +1,53 @@
+{
+  "architectures": [
+    "LayoutLMv3ForTokenClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "bos_token_id": 0,
+  "classifier_dropout": null,
+  "coordinate_size": 128,
+  "dtype": "float32",
+  "eos_token_id": 2,
+  "has_relative_attention_bias": true,
+  "has_spatial_attention_bias": true,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "id2label": {
+    "0": "O",
+    "1": "INVOICE_NUMBER",
+    "2": "INVOICE_DATE",
+    "3": "TOTAL_AMOUNT",
+    "4": "TAX_AMOUNT"
+  },
+  "initializer_range": 0.02,
+  "input_size": 224,
+  "intermediate_size": 3072,
+  "label2id": {
+    "INVOICE_DATE": 2,
+    "INVOICE_NUMBER": 1,
+    "O": 0,
+    "TAX_AMOUNT": 4,
+    "TOTAL_AMOUNT": 3
+  },
+  "layer_norm_eps": 1e-05,
+  "max_2d_position_embeddings": 1024,
+  "max_position_embeddings": 514,
+  "max_rel_2d_pos": 256,
+  "max_rel_pos": 128,
+  "model_type": "layoutlmv3",
+  "num_attention_heads": 12,
+  "num_channels": 3,
+  "num_hidden_layers": 12,
+  "pad_token_id": 1,
+  "patch_size": 16,
+  "rel_2d_pos_bins": 64,
+  "rel_pos_bins": 32,
+  "second_input_size": 112,
+  "shape_size": 128,
+  "text_embed": true,
+  "transformers_version": "4.57.1",
+  "type_vocab_size": 1,
+  "visual_embed": true,
+  "vocab_size": 50265
+}
